@@ -1,0 +1,18 @@
+p{
+    color:green;
+    font-weight: 600;
+}
+p span{
+    color:black;
+}
+a{
+    color:crimson;
+}
+h4{
+    text-decoration: underline;
+    color:chocolate;
+}
+.h3{
+    font-family: cursive;
+    color: teal;
+}
